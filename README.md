@@ -2,7 +2,7 @@
 # Generative Ai: Prompt Engineering Basics 
 
 
-# Task 1. Prompt-Instructions-and-the-Prompt
+# Task 1. Prompt-Instructions and the Prompt
 
 
 Difference Between Prompt Instructions and Prompt
