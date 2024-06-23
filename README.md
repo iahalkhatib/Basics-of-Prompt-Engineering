@@ -204,7 +204,7 @@ Generating a Response of a Specific Number of Words/Statements
 
 
 
-In this lab, I experimented with designing a prompt structure that helps to write concise prompts. 
+# Conclusion: In this lab, I experimented with designing a prompt structure that helps to write concise prompts. 
 
 I learned how to write a concise, unambiguous prompt to generate the desired response. 
 
