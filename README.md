@@ -186,3 +186,29 @@ Question Format: Best for extracting specific information or details.
 Statement Format: Suitable for text completion or elaboration on a topic.
 
 Instruction Format: Effective for tasks like summarization or generating a list of items.
+
+
+# Exercise 4: Limit the Output Length
+
+For a few text generation tasks, such as generating tweets or text messages for a social media post, there are limitations on the number of words. 
+
+Let's experiment with a prompt that instructs the model to generate a response with a specific number of words or to generate a specific number of statements.
+
+Generating a Response of a Specific Number of Words/Statements
+
+![image](https://github.com/iahalkhatib/Basics-of-Prompt-Engineering/assets/170050432/8302b7db-5bdb-4ec4-a0c1-f42a0722d3d9)
+
+
+![image](https://github.com/iahalkhatib/Basics-of-Prompt-Engineering/assets/170050432/d2beeba4-8ca8-4835-b65f-b67d09fe46af)
+
+
+
+
+In this lab, I experimented with designing a prompt structure that helps to write concise prompts. 
+
+I learned how to write a concise, unambiguous prompt to generate the desired response. 
+
+I also experimented with different formats of prompts, such as questions, statements, and instructions. 
+
+I learned to select the specific format based on the requirements and desired response.
+
